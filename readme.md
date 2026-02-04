@@ -1,7 +1,13 @@
-# Professional Software Projects GitHub Diary Guidance
+# Profile: Dan Crowe Student number: 33005924
 
-This repo contains
+### team: Elanco Group 4 
 
-- a guide to using GitHub for diary submissions.
-- a sample readme.md file page to create.
-- suggested weekly themes and structure for your diary.
+### Weekly session: Wednesday 12:00 
+
+### Team members 
+- *Dan Crowe*
+- Freya Johnson
+- Zarka Hussain
+- Harrun Handuleh
+- Nijenthan Jegatheeswaren
+  
