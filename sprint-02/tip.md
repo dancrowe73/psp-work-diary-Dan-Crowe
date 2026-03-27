@@ -1,3 +1,3 @@
-# Tips for the Sprint Week
+This week, we worked a lot more remote than last sprint week, due to conflicting schedules within the team. Despite this, we still managed to meet every morning online to discuss what we had done so far and what we need to get done during that day.  The regular communication helped maintain momentum and allowed the team to quickly address any issues. I conducted research into common livestock parasites affecting animals in the United Kingdom, including liver fluke and ringworms. This research involved reviewing agricultural guidance and identifying key symptoms, risk factors, and regional considerations.
 
-Comment on actions during the second Sprint Week.
+I completed User Story 16, which involved writing a comprehensive summary of all relevant parasites. The summaries were designed to be concise and informative so they could be integrated into the application and easily understood by users. This work ensured that the information presented in the parasite risk map was accurate and useful.
